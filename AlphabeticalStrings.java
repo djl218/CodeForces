@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+// n = s.length()
+// Time: O(n)
+// Space: O(1)
 public class AlphabeticalStrings {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
