@@ -1,9 +1,9 @@
 import java.util.*;
-// https://codeforces.com/problemset/problem/802/G
 
 // n = s.length()
 // Time: O(n)
 // Space: O(1)
+// https://codeforces.com/problemset/problem/802/G
 public class FakeNews {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);

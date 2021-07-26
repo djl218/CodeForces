@@ -1,9 +1,9 @@
 import java.util.Scanner;
-// https://codeforces.com/problemset/problem/1547/B
 
 // n = s.length()
 // Time: O(n)
 // Space: O(1)
+// https://codeforces.com/problemset/problem/1547/B
 public class AlphabeticalStrings {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
