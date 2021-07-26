@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// https://codeforces.com/problemset/problem/1547/B
 
 // n = s.length()
 // Time: O(n)
